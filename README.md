@@ -1,7 +1,7 @@
 # FUTURE_CS_02
 # Phishing Email Detection & Awareness System
 Cyber Security Internship – Task 2  
-Future Interns (2026)
+
 
 ## Overview :
 This project focuses on analyzing phishing email samples to identify threats and create a professional awareness report. The analysis was performed using email header analysis tools and phishing detection techniques similar to real corporate security practices.
@@ -28,18 +28,15 @@ This project focuses on analyzing phishing email samples to identify threats and
 - Identified spoofed domains and suspicious links  
 - Classified emails as PHISHING 
 
-## 📄 Reports
+## 📄 Reports :
 
 **Phishing Detection & Awareness Report (PDF):**  
-PASTE FINAL REPORT LINK HERE  
+->[FINAL REPORT PDF LINK ](https://drive.google.com/file/d/1l1kF8WyBO2a12zocaYVkxzT6NEj-3EbX/view?usp=drivesdk)
 
 **Header Analysis Report (PDF):**  
-PASTE HEADER ANALYSIS REPORT LINK HERE  
+->[HEADER ANALYSIS REPORT LINK ](https://drive.google.com/file/d/1MgE--gjqBMoKtx6ASS4g2zsYpeJclAYT/view?usp=drivesdk) 
 
----
-
-## 📁 Repository Contents
-
+## 📁 Repository Contents :
 - Phishing Detection & Awareness Report (PDF)  
 - Header Analysis Report (PDF)  
 - Sample phishing emails  
