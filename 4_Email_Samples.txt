@@ -1,0 +1,79 @@
+				Email 1 –  Fake Account Lock
+
+
+
+Subject: Urgent: Your Account Will Be Locked
+
+From: security@secure-account-alert.com
+
+Dear User,
+
+We noticed suspicious activity on your account.
+Please verify your details immediately to avoid suspension.
+
+Click here: http://secure-account-verify.com
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Regards,
+Security Team
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 					Email 2 –  Fake Bank Alert
+
+
+Subject: Congratulations! You Won ₹5,00,000
+
+From: lottery@international-prize.net
+
+Dear Customer,
+
+You have won a lucky draw prize of ₹5,00,000.
+To claim your reward, send your bank details immediately.
+
+Regards,
+Prize Team
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 				Email 3 –  Fake Job Offer
+
+
+Subject: Job Offer – Immediate Joining
+
+From: hr@amaz0n-careers.com
+
+Dear Applicant,
+
+
+Congratulations! You have been shortlisted for the position of Remote Customer Support Executive.
+Please download the attached offer letter and submit your ID proof along with your bank details for salary processing.
+Complete the formalities within 24 hours to avoid cancellation of your offer.
+
+Regards,
+HR Team
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+				Email 4 -Fake PayPal Security Alert
+
+
+Subject: Important Notice: Unusual Login Attempt Detected
+
+From: support@paypaI-security.com
+
+Dear Valued Customer,
+
+We detected an unusual login attempt on your PayPal account from a new device.
+For your protection, your account has been temporarily limited.
+To restore full access, please confirm your identity immediately:
+
+https://paypal-account-verification-secure.com
+
+If you do not verify within 12 hours, your account will be permanently suspended.
+
+Thank you,
+PayPal Security Team
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
