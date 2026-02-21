@@ -44,8 +44,7 @@ PASTE HEADER ANALYSIS REPORT LINK HERE
 - Header Analysis Report (PDF)  
 - Sample phishing emails  
 - Header analysis screenshots  
-- README.md  
+ 
+## ⚠ Disclaimer
 
----------------------------## ⚠ Disclaimer---------------------------
-
-## This project is created for educational purposes only.
+## This project is created for educational purposes only. ##
