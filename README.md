@@ -31,7 +31,7 @@ This project focuses on analyzing phishing email samples to identify threats and
 ## 📄 Reports :
 
 **Phishing Detection & Awareness Report (PDF):**  
-->[FINAL REPORT PDF LINK ](https://drive.google.com/file/d/1l1kF8WyBO2a12zocaYVkxzT6NEj-3EbX/view?usp=drivesdk)](https://drive.google.com/file/d/1DVY0fsSrZsmxyxSwjwaGfXmxq_5Waomd/)
+->[FINAL REPORT PDF LINK ](https://drive.google.com/file/d/1DVY0fsSrZsmxyxSwjwaGfXmxq_5Waomd/)
 
 **Header Analysis Report (PDF):**  
 ->[HEADER ANALYSIS REPORT LINK ](https://drive.google.com/file/d/1MgE--gjqBMoKtx6ASS4g2zsYpeJclAYT/view?usp=drivesdk) 
@@ -42,6 +42,6 @@ This project focuses on analyzing phishing email samples to identify threats and
 - Sample phishing emails  
 - Header analysis screenshots  
  
-## ⚠ Disclaimer
+ -------- ## ⚠ Disclaimer ---------
 
 ## This project is created for educational purposes only. ##
